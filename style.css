@@ -1,0 +1,9 @@
+h1{
+    background-color: aqua;
+    /* border-radius: 30%; */
+    border: 3px solid black;
+    text-underline-position: below;
+    text-justify: auto;
+    text-align: center;
+    color: red;
+}
